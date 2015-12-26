@@ -1,0 +1,28 @@
+name: 'Michael Salgado | Poetry & Further'
+favicon: null
+layout_spectrum: 0.0661386561114341
+typography_spectrum: 0.44641816476359963
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.2890666958410293
+  lightness: 0.16354286530986428
+  saturation: 0.23582501686178148
+  rhythmicContrast: 0.26824863790534437
+purpose: []
