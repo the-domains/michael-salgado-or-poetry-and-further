@@ -1,7 +1,7 @@
 name: 'Michael Salgado | Poetry & Further'
 favicon: null
-layout_spectrum: 0.0661386561114341
-typography_spectrum: 0.44641816476359963
+layout_spectrum: 0.93516
+typography_spectrum: 0.82748
 title: 'Michael Salgado | Poetry & Further'
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-  brandStrength: 0.2890666958410293
-  lightness: 0.16354286530986428
-  saturation: 0.23582501686178148
-  rhythmicContrast: 0.26824863790534437
+    - '#060407'
+    - '#2f2f49'
+    - '#c07687'
+    - '#665f89'
+    - '#ffa6a4'
+  brandStrength: 0.375
+  lightness: 0.25
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
