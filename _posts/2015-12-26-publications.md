@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-26T16:47:42.620Z'
-dateModified: '2015-12-26T16:22:56.485Z'
+datePublished: '2015-12-26T17:03:48.338Z'
+dateModified: '2015-12-26T17:03:44.847Z'
 title: Publications
 author: []
+sourcePath: _posts/2015-12-26-publications.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-26-publications.md
-published: true
 url: publications/index.html
 _type: Article
 
@@ -25,9 +25,9 @@ _type: Article
 * You
 can find more of Mike's work in _[Third
 Point Press][0], [Lehigh Valley Vanguard][1], _and _[G3: Genes, Genomes, Genomics][2]. _
-* Mike has work forthcoming in_[theEEEL][3], _an online publication from_[tNY Press][4]_that features experimental literature.
+* Mike has work forthcoming in _[theEEEL][3], _an online publication from _[tNY Press][4]_that features experimental literature.
 
-. ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/25c6a04b-5dac-4e92-8c75-3eb351374528.gif)
+. ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/e99607c5d402d6075693b7dcbcc340ef219d04e4.gif)
 
 [0]: http://thirdpointpress.com/2015/05/14/glow-in-the-dark-our-new-business-model-for-the-second-half-of-this-decade/
 [1]: http://www.lehighvalleyvanguard.org/#!Michael-Salgado-KANBAN/cmbz/A75A7536-C280-436C-9566-E3E517143C53
