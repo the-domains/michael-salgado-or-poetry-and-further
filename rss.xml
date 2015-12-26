@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Michael Salgado | Poetry & Further]]></title>
+        <description><![CDATA[Michael Salgado | Poetry & Further]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 26 Dec 2015 16:47:42 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Contact]]></title>
+            <description><![CDATA[<article><h1>Contact</h1><p>elementsalgado@yahoo.com or msalgado@arcadia.edu</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4d42e71a0589bbea2d2f169754d24ee239738795.jpg"></article>]]></description>
+            <link>undefinedcontact/index.html</link>
+            <guid isPermaLink="false">333602f8-b99f-45b8-8334-089cf82908bd</guid>
+            <pubDate>Sat, 26 Dec 2015 16:47:42 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
